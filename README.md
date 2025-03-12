@@ -1,7 +1,15 @@
 # MIST-Group-Project-1
 
-# Team Name:
-71552 Group 4
+# Team Name
 
-# Team Members:
-1. 
+# Team Members
+
+# Problem Description
+
+# Data Model
+
+# Data Dictionary
+
+# Queries
+
+# Database Information
