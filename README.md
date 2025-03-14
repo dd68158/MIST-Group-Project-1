@@ -6,15 +6,15 @@
 
 # Team Members
 
-Ashleigh Myers @ashleigh-myers
+Ashleigh Myers [@ashleigh-myers](https://github.com/ashleigh-myers)
 
-Daniel Ding @dd68158
+Daniel Ding [@dd68158](https://github.com/dd68158)
 
-Shraeyas Muthaiah @shraeyasam
+Shraeyas Muthaiah [@shraeyasam](https://github.com/shraeyasam)
 
-Palak Kaur @palakxkaur 
+Palak Kaur [@palakxkaur](https://github.com/palakxkaur)
 
-Zoe Jordan @Zoejordan012
+Zoe Jordan [@Zoejordan012](https://github.com/Zoejordan012)
 
 
 # Problem Description
