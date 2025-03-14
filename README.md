@@ -1,10 +1,10 @@
-## MIST-Group-Project-1
+# MIST-Group-Project-1
 
-# Team Name
+## Team Name
 
 71552 Group 4
 
-# Team Members
+## Team Members
 
 Ashleigh Myers [@ashleigh-myers](https://github.com/ashleigh-myers)
 
@@ -17,10 +17,10 @@ Palak Kaur [@palakxkaur](https://github.com/palakxkaur)
 Zoe Jordan [@Zoejordan012](https://github.com/Zoejordan012)
 
 
-# Problem Description
+## Problem Description
 Our NFL database was created as a representation of a database that would aid the leaders or administrators of the football league to make critical, impactful decisions about the league, and facilitate management. It is comprised of key categories of information including the stadium, game, team, players, head coach, and tickets. The NFL is one of the biggest players in a huge sports and entertainment industry, and there is a huge amount of data that needs to be organized, managed, and utilized. Sports leagues constantly undergo change in response to unfair treatment of players, exploitation of rules by players and teams, or changing tastes of consumers. With our database, the league managers and its committees can interpret information to make informed decisions for the integrity, sustainability, and profitability of the league, along with handling the tasks they are responsible for, including creating or changing rules, approving ownership changes, training game officials, integrating technology, ensuring competitive balance, and maintaining legitimacy and entertainment of the game.
 
-# Data Model
+## Data Model
 
 <img width="443" alt="Screenshot 2025-03-14 at 2 05 56 PM" src="https://github.com/user-attachments/assets/4c7c804b-3c3f-4080-a168-22e76cb459ba" />
 
@@ -36,7 +36,7 @@ Tickets provide details on seat numbers, prices, and types. They link back to th
 
 
 
-# Data Dictionary
+## Data Dictionary
 
 
 
@@ -46,7 +46,7 @@ Tickets provide details on seat numbers, prices, and types. They link back to th
 
 
 
-# Queries
+## Queries
 
 1. Get Coaches of Teams with Above Average Wins- Ashleigh
 
@@ -105,6 +105,6 @@ The information in this query displays the game ID, the date of the game, the sc
 
 This query retrieves the game ID, date, winning team, stadium city, and total revenue generated from ticket sales for each game, ordering the results by total revenue in descending order. This would be important for the NFL because it helps identify the most profitable games, which could provide insights into factors that drive higher ticket sales. League officials, team owners, and marketers could use this information to analyze trends, such as which teams attract the most fans, which stadiums generate the most revenue, and which games are in the highest demand. This data could influence future scheduling decisions, ticket pricing strategies, and marketing efforts to maximize revenue. Additionally, it could help determine ideal locations for high-profile events like playoff games and the Super Bowl, ensuring the league maximizes profitability and fan engagement.
 
-# Database Information
+## Database Information
 Put table here
 Name of the database: ha_group4_crn71552
