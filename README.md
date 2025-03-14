@@ -13,7 +13,6 @@ Daniel Ding [@dd68158](https://github.com/dd68158)
 Shraeyas Muthaiah [@shraeyasam](https://github.com/shraeyasam)
 
 Palak Kaur [@palakxkaur](https://github.com/palakxkaur)
-
 Zoe Jordan [@Zoejordan012](https://github.com/Zoejordan012)
 
 
@@ -30,11 +29,6 @@ The team entity holds information on the team’s founding date, wins, and losse
 Players are associated with a specific team and include personal details like name and position.
 The head coach entity tracks the coach’s name and tenure, directly linking to the team they lead.
 Tickets provide details on seat numbers, prices, and types. They link back to the game, stadium, and teams involved, to have a comprehensive event tracking. 
-
-
-
-
-
 
 ## Data Dictionary
 
