@@ -105,14 +105,15 @@ This simple query provides all players’ first and last names along with the te
 
 The information in this query displays the game ID, the date of the game, the score of the game, the stadium name, and the city the stadium is in. A manager can look at this data and determine where the higher scoring games took place. WIth this information, ticket prices can be adjusted and it can also show how much revenue/loss to expect in the future games based on the previous games.
 
-10. Highest Revenue Games by Ticket Sales
-<img width="544" alt="Screenshot 2025-03-14 at 2 38 33 PM" src="https://github.com/user-attachments/assets/3c19f160-b93f-4e12-a0ab-cc6a48efc7bf" />
+10. Coaches with above-average tenure
+<img width="437" alt="Screenshot 2025-03-14 at 10 10 07 PM" src="https://github.com/user-attachments/assets/cfd01509-121d-425b-bb0e-0d65b2683b77" />
 
 
+This query displays the name and tenure of head coaches who have a tenure that is longer than the average of all head coaches. For the league manager this information can be very useful in judging coach performance, conducting investigation into questionable team/coach relationships, deciding who to award (ex. Coach of the Year), and determining which coaches should be marketed more in a way that boosts revenue and engagement with football fans.
 
-This query retrieves the game ID, date, winning team, stadium city, and total revenue generated from ticket sales for each game, ordering the results by total revenue in descending order. This would be important for the NFL because it helps identify the most profitable games, which could provide insights into factors that drive higher ticket sales. League officials, team owners, and marketers could use this information to analyze trends, such as which teams attract the most fans, which stadiums generate the most revenue, and which games are in the highest demand. This data could influence future scheduling decisions, ticket pricing strategies, and marketing efforts to maximize revenue. Additionally, it could help determine ideal locations for high-profile events like playoff games and the Super Bowl, ensuring the league maximizes profitability and fan engagement.
 
 ## Database Information
-<img width="600" alt="Screenshot 2025-03-14 at 10 04 10 PM" src="https://github.com/user-attachments/assets/f079c855-a73b-432a-b0cc-43e615ad3481" />
+<img width="625" alt="Screenshot 2025-03-14 at 10 37 23 PM" src="https://github.com/user-attachments/assets/b125c230-a96d-482d-9cb7-704ffa06e2a5" />
+
 
 Name of the database: ha_group4_crn71552
